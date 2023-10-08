@@ -1,6 +1,6 @@
 name: graph_calculator
 description: A Flutter package for graphing mathematical functions in your app, enabling interactive plotting and visualization.
-version: 0.0.3
+version: 0.0.4
 homepage: https://github.com/Muslims-code/graph_calculator
 repository: https://github.com/Muslims-code/graph_calculator
 

@@ -4,3 +4,5 @@
 * simple edits
 # 0.0.3
 * tiny if else fix
+# 0.0.4
+* format

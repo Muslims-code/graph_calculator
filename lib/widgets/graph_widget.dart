@@ -67,8 +67,8 @@ class GraphPainter extends CustomPainter {
     var xAddition = focusPoint.x;
     var yAddition = focusPoint.y;
     canvas.translate(size.width / 2 - xAddition, size.height / 2 - yAddition);
-    if(graph.drawAxes)controller.drawAxes(canvas, size);
-    if(graph.drawNumbers)controller.addNumbers(canvas, size);
+    if (graph.drawAxes) controller.drawAxes(canvas, size);
+    if (graph.drawNumbers) controller.addNumbers(canvas, size);
     controller.drawObjects(canvas, size);
     controller.drawFunctions(canvas, size);
   }
