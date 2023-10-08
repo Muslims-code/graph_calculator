@@ -1,4 +1,5 @@
 # Graph Calculator Package
+[![Pub](https://img.shields.io/pub/v/graph_calculator.svg)](https://pub.dev/packages/graph_calculator)
 
 A Flutter package for creating interactive and customizable graphs in your Flutter applications.
 
